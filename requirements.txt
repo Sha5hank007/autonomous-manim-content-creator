@@ -1,0 +1,19 @@
+# LLM & API
+requests
+groq
+
+# TTS
+edge-tts
+
+# Manim
+manim
+
+# Video processing
+moviepy
+Pillow
+numpy
+
+# Utilities
+python-dotenv
+
+python-docx
